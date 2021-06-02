@@ -12,3 +12,5 @@ Hence your shell will have the following parameters:\
 <b>isp \<N\> \<mode\></b>\
 where <N> is the number of bytes to read/write in one system call and <mode> is the mode of the communication to use. If mode value is 1, then normal communication mode is used. If mode value is 2, tapped communication mode is used.\
 An example invocation can be: “./isp 1 2”. That means, we want to read/write 1 byte at a time and tapped mode is used.\
+
+<a href="https://github.com/akaanug/ISP/blob/main/report.pdf" target="_blank">Report</a>
